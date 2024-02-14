@@ -1,4 +1,17 @@
-### Hi there 👋
+# Dave Marian 👋
+
+I am a creator living in Vienna, Austria. 
+
+Subscribe Button
+
+## Languages and Tools
+All the stuff
+
+## Latest videos
+
+## Stats
+
+Dave's coding journey.
 
 <!--
 **davemariannn/davemariannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
