@@ -20,8 +20,6 @@ Subscribe Button
 
 ## Latest videos
 
-## Stats
-
 <details>
   <summary>Dave's coding journey.</summary>
   
