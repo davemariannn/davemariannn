@@ -23,9 +23,9 @@ Subscribe Button
 ## Stats
 
 <details>
-  <summary>### Dave's coding journey.</summary>
+  <summary>Dave's coding journey.</summary>
   
-  Dave's coding journey.
+  ###Dave's coding journey.
 
   I started when I was young.
 </details>
