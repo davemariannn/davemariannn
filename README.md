@@ -23,6 +23,9 @@ Subscribe Button
 
 ## Latest videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <details>
   <summary>Dave's coding journey.</summary>
   
