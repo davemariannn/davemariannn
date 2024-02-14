@@ -11,7 +11,14 @@ All the stuff
 
 ## Stats
 
-Dave's coding journey.
+<details>
+  <summary>### Dave's coding journey.</summary>
+  
+  ### Dave's coding journey.
+
+  I started when I was young.
+</details>
+
 
 <!--
 **davemariannn/davemariannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
