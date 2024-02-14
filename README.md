@@ -5,6 +5,7 @@ I am a creator living in Vienna, Austria.
 Subscribe Button
 
 ## Languages and Tools
+<span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="float:left;width:42px;height:42px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" style="float:left;width:42px;height:42px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" style="float:left;width:42px;height:42px;"/>
@@ -15,6 +16,7 @@ Subscribe Button
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" style="float:left;width:42px;height:42px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="float:left;width:42px;height:42px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" style="float:left;width:42px;height:42px;"/>
+</span>
 
 ## Latest videos
 
