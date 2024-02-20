@@ -24,12 +24,12 @@ I'm a indie developer, educator and creator, focussing mostly on games and media
 ## Latest videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![The REAL Tolkien experience: Learning Languages. | Chants of Senaar](https://ytcards.demolab.com/?id=PWL9XlCKb-M&title=The+REAL+Tolkien+experience%3A+Learning+Languages.+%7C+Chants+of+Senaar&lang=en&timestamp=1708187952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The REAL Tolkien experience: Learning Languages. | Chants of Senaar")](https://www.youtube.com/watch?v=PWL9XlCKb-M)
 [![5 Video Games you MUST play](https://ytcards.demolab.com/?id=bTaADfubPUE&title=5+Video+Games+you+MUST+play&lang=en&timestamp=1708185631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Video Games you MUST play")](https://www.youtube.com/watch?v=bTaADfubPUE)
 [![What is the Point of Palworld?](https://ytcards.demolab.com/?id=y4fUydWhSNw&title=What+is+the+Point+of+Palworld%3F&lang=en&timestamp=1707582609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What is the Point of Palworld?")](https://www.youtube.com/watch?v=y4fUydWhSNw)
 [![The Gollum Disaster Explained](https://ytcards.demolab.com/?id=1bEyt0fFHqs&title=The+Gollum+Disaster+Explained&lang=en&timestamp=1706893201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Gollum Disaster Explained")](https://www.youtube.com/watch?v=1bEyt0fFHqs)
 [![How Baldur's Gate 3 Scared The Game Industry](https://ytcards.demolab.com/?id=x7qwmGUPE38&title=How+Baldur%27s+Gate+3+Scared+The+Game+Industry&lang=en&timestamp=1706288457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Baldur's Gate 3 Scared The Game Industry")](https://www.youtube.com/watch?v=x7qwmGUPE38)
 [![Who is Zariel in Baldur's Gate 3?](https://ytcards.demolab.com/?id=c-8ilMsEYhw&title=Who+is+Zariel+in+Baldur%27s+Gate+3%3F&lang=en&timestamp=1705077012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Who is Zariel in Baldur's Gate 3?")](https://www.youtube.com/watch?v=c-8ilMsEYhw)
-[![Alan Wake 2: Lore of the Bosses](https://ytcards.demolab.com/?id=1NU9hjza3nA&title=Alan+Wake+2%3A+Lore+of+the+Bosses&lang=en&timestamp=1701453602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Alan Wake 2: Lore of the Bosses")](https://www.youtube.com/watch?v=1NU9hjza3nA)
 <!-- END YOUTUBE-CARDS -->
 
 <details>
