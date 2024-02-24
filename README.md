@@ -3,6 +3,7 @@
 I'm a indie developer, educator and creator, focussing mostly on games and media automation. I aim to build my projects mostly myself, since I like to understand what is going on under the hood. However, I don't shy away from using other people's solutions if the need arises. I publish videos and occasionally stream on my YouTube channel <a href="https://www.youtube.com/@dave_marian">Dave Marian</a>, talking about games, media as well as the industry and culture around them.
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm_G1EP6c_PZ6AYf-QmaGlA?style=flat-square&label=DaveMarian)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C3UUZJV)
 
 ## Languages and Tools
