@@ -26,12 +26,12 @@ I'm a indie developer, educator and creator, focussing mostly on games and media
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm_G1EP6c_PZ6AYf-QmaGlA?style=flat-square&label=DaveMarian)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Meow | Stray](https://ytcards.demolab.com/?id=MTOHsfFFHic&title=Meow+%7C+Stray&lang=en&timestamp=1709052513&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meow | Stray")](https://www.youtube.com/watch?v=MTOHsfFFHic)
 [![The Game Palworld AND Pokemon Copied](https://ytcards.demolab.com/?id=TFf4hvG8Li0&title=The+Game+Palworld+AND+Pokemon+Copied&lang=en&timestamp=1708965006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Game Palworld AND Pokemon Copied")](https://www.youtube.com/watch?v=TFf4hvG8Li0)
 [![5 Video Games you MUST play](https://ytcards.demolab.com/?id=bTaADfubPUE&title=5+Video+Games+you+MUST+play&lang=en&timestamp=1708185631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Video Games you MUST play")](https://www.youtube.com/watch?v=bTaADfubPUE)
 [![What is the Point of Palworld?](https://ytcards.demolab.com/?id=y4fUydWhSNw&title=What+is+the+Point+of+Palworld%3F&lang=en&timestamp=1707582609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What is the Point of Palworld?")](https://www.youtube.com/watch?v=y4fUydWhSNw)
 [![The Gollum Disaster Explained](https://ytcards.demolab.com/?id=1bEyt0fFHqs&title=The+Gollum+Disaster+Explained&lang=en&timestamp=1706893201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Gollum Disaster Explained")](https://www.youtube.com/watch?v=1bEyt0fFHqs)
 [![How Baldur's Gate 3 Scared The Game Industry](https://ytcards.demolab.com/?id=x7qwmGUPE38&title=How+Baldur%27s+Gate+3+Scared+The+Game+Industry&lang=en&timestamp=1706288457&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How Baldur's Gate 3 Scared The Game Industry")](https://www.youtube.com/watch?v=x7qwmGUPE38)
+[![Who is Zariel in Baldur's Gate 3?](https://ytcards.demolab.com/?id=c-8ilMsEYhw&title=Who+is+Zariel+in+Baldur%27s+Gate+3%3F&lang=en&timestamp=1705077012&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Who is Zariel in Baldur's Gate 3?")](https://www.youtube.com/watch?v=c-8ilMsEYhw)
 <!-- END YOUTUBE-CARDS -->
 
 <details>
