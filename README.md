@@ -26,12 +26,12 @@ I'm a indie developer, educator and creator, focussing mostly on games and media
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm_G1EP6c_PZ6AYf-QmaGlA?style=flat-square&label=DaveMarian)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![5 Cozy Games for a Weekend at Home](https://ytcards.demolab.com/?id=gaolNxuqDfs&title=5+Cozy+Games+for+a+Weekend+at+Home&lang=en&timestamp=1710174610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Cozy Games for a Weekend at Home")](https://www.youtube.com/watch?v=gaolNxuqDfs)
 [![Who is Elminster in Baldur's Gate 3?](https://ytcards.demolab.com/?id=tsRIIWccXSU&title=Who+is+Elminster+in+Baldur%27s+Gate+3%3F&lang=en&timestamp=1709569819&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Who is Elminster in Baldur's Gate 3?")](https://www.youtube.com/watch?v=tsRIIWccXSU)
 [![5 Games you NEED to play](https://ytcards.demolab.com/?id=HZKslScartY&title=5+Games+you+NEED+to+play&lang=en&timestamp=1709310603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Games you NEED to play")](https://www.youtube.com/watch?v=HZKslScartY)
 [![The Game Palworld AND Pokemon Copied](https://ytcards.demolab.com/?id=TFf4hvG8Li0&title=The+Game+Palworld+AND+Pokemon+Copied&lang=en&timestamp=1708965006&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Game Palworld AND Pokemon Copied")](https://www.youtube.com/watch?v=TFf4hvG8Li0)
 [![5 Video Games you MUST play](https://ytcards.demolab.com/?id=bTaADfubPUE&title=5+Video+Games+you+MUST+play&lang=en&timestamp=1708185631&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "5 Video Games you MUST play")](https://www.youtube.com/watch?v=bTaADfubPUE)
 [![What Is The Point Of Palworld?](https://ytcards.demolab.com/?id=y4fUydWhSNw&title=What+Is+The+Point+Of+Palworld%3F&lang=en&timestamp=1707582609&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What Is The Point Of Palworld?")](https://www.youtube.com/watch?v=y4fUydWhSNw)
-[![The Gollum Disaster Explained](https://ytcards.demolab.com/?id=1bEyt0fFHqs&title=The+Gollum+Disaster+Explained&lang=en&timestamp=1706893201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Gollum Disaster Explained")](https://www.youtube.com/watch?v=1bEyt0fFHqs)
 <!-- END YOUTUBE-CARDS -->
 
 <details>
