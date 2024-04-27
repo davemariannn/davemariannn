@@ -26,12 +26,7 @@ I'm a indie developer, educator and creator, focussing mostly on games and media
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm_G1EP6c_PZ6AYf-QmaGlA?style=flat-square&label=DaveMarian)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Innovation still happens #gaming #advice #lifelessons](https://ytcards.demolab.com/?id=nODq2aaFzEQ&title=Innovation+still+happens+%23gaming+%23advice+%23lifelessons&lang=en&timestamp=1712936705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Innovation still happens #gaming #advice #lifelessons")](https://www.youtube.com/watch?v=nODq2aaFzEQ)
-[![Get BORED!  #gaming #cat #lifelessons](https://ytcards.demolab.com/?id=ePdY1uhHkQo&title=Get+BORED%21++%23gaming+%23cat+%23lifelessons&lang=en&timestamp=1712849410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Get BORED!  #gaming #cat #lifelessons")](https://www.youtube.com/watch?v=ePdY1uhHkQo)
-[![Marketing SUCKS #gaming #advice #cat](https://ytcards.demolab.com/?id=2iPS3D52aHQ&title=Marketing+SUCKS+%23gaming+%23advice+%23cat&lang=en&timestamp=1712763001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Marketing SUCKS #gaming #advice #cat")](https://www.youtube.com/watch?v=2iPS3D52aHQ)
-[![Artists and Creators have to STAND OUT ! #gaming #gamedevelopers #advice](https://ytcards.demolab.com/?id=mAOxaUTgib4&title=Artists+and+Creators+have+to+STAND+OUT+%21+%23gaming+%23gamedevelopers+%23advice&lang=en&timestamp=1712676612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Artists and Creators have to STAND OUT ! #gaming #gamedevelopers #advice")](https://www.youtube.com/watch?v=mAOxaUTgib4)
-[![content over tools! #gaming #gamedevelopers #advice](https://ytcards.demolab.com/?id=zSlSY0iNkpI&title=content+over+tools%21+%23gaming+%23gamedevelopers+%23advice&lang=en&timestamp=1712591104&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "content over tools! #gaming #gamedevelopers #advice")](https://www.youtube.com/watch?v=zSlSY0iNkpI)
-[![Getting angry  #gaming #advice #lifelessons](https://ytcards.demolab.com/?id=wFbSG7d1dL0&title=Getting+angry++%23gaming+%23advice+%23lifelessons&lang=en&timestamp=1712331028&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Getting angry  #gaming #advice #lifelessons")](https://www.youtube.com/watch?v=wFbSG7d1dL0)
+
 <!-- END YOUTUBE-CARDS -->
 
 <details>
