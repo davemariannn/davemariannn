@@ -26,12 +26,12 @@ I'm a indie developer, educator and creator, focussing mostly on games and media
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCm_G1EP6c_PZ6AYf-QmaGlA?style=flat-square&label=DaveMarian)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![The Passion of Miquella the Kind](https://ytcards.demolab.com/?id=ju929SzfAPo&title=The+Passion+of+Miquella+the+Kind&lang=en&timestamp=1720974615&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Passion of Miquella the Kind")](https://www.youtube.com/watch?v=ju929SzfAPo)
 [![Elden Ring's Eyes](https://ytcards.demolab.com/?id=hDobmn4Xy4I&title=Elden+Ring%27s+Eyes&lang=en&timestamp=1719417639&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Elden Ring's Eyes")](https://www.youtube.com/watch?v=hDobmn4Xy4I)
 [![Who are the Tarnished in Elden Ring?](https://ytcards.demolab.com/?id=AxKwD9LQq6I&title=Who+are+the+Tarnished+in+Elden+Ring%3F&lang=en&timestamp=1718830018&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Who are the Tarnished in Elden Ring?")](https://www.youtube.com/watch?v=AxKwD9LQq6I)
 [![What actually is Play? | Game Dev Book Club](https://ytcards.demolab.com/?id=DWP9zVvokNc&title=What+actually+is+Play%3F+%7C+Game+Dev+Book+Club&lang=en&timestamp=1717517700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What actually is Play? | Game Dev Book Club")](https://www.youtube.com/watch?v=DWP9zVvokNc)
 [![The Day Assassin's Creed Died](https://ytcards.demolab.com/?id=lG9XiqiEPfQ&title=The+Day+Assassin%27s+Creed+Died&lang=en&timestamp=1716220843&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "The Day Assassin's Creed Died")](https://www.youtube.com/watch?v=lG9XiqiEPfQ)
 [![About Miquella and Melina](https://ytcards.demolab.com/?id=_06CyNqEVuo&title=About+Miquella+and+Melina&lang=en&timestamp=1714667405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "About Miquella and Melina")](https://www.youtube.com/watch?v=_06CyNqEVuo)
-[![Innovation still happens #gaming #advice #lifelessons](https://ytcards.demolab.com/?id=nODq2aaFzEQ&title=Innovation+still+happens+%23gaming+%23advice+%23lifelessons&lang=en&timestamp=1712936705&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Innovation still happens #gaming #advice #lifelessons")](https://www.youtube.com/watch?v=nODq2aaFzEQ)
 <!-- END YOUTUBE-CARDS -->
 
 <details>
